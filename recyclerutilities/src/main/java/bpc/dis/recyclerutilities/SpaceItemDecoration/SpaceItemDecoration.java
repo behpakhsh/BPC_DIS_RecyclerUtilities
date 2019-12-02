@@ -1,4 +1,4 @@
-package bpc.dis.recyclerutilities.SpacesItemDecoration;
+package bpc.dis.recyclerutilities.SpaceItemDecoration;
 
 import android.graphics.Rect;
 import android.view.View;
@@ -6,11 +6,11 @@ import android.view.View;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-public class SpacesItemDecoration extends RecyclerView.ItemDecoration {
+public class SpaceItemDecoration extends RecyclerView.ItemDecoration {
 
     private int space;
 
-    public SpacesItemDecoration(int space) {
+    public SpaceItemDecoration(int space) {
         this.space = space;
     }
 
