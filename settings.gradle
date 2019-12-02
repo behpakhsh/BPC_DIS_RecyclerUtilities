@@ -1,0 +1,2 @@
+include ':app', ':recyclerutilities'
+rootProject.name='BPC_DIS_RecyclerUtilities'
