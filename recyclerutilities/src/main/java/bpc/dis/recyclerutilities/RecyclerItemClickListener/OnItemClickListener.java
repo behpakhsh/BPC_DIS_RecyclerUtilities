@@ -2,7 +2,7 @@ package bpc.dis.recyclerutilities.RecyclerItemClickListener;
 
 import android.view.View;
 
-abstract class OnItemClickListener {
+public abstract class OnItemClickListener {
 
     void onItemClick(View view, int position) {
 
