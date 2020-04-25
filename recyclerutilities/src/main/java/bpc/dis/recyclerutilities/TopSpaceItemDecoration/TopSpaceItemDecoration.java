@@ -7,7 +7,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 public class TopSpaceItemDecoration extends RecyclerView.ItemDecoration {
-    
+
     private int topSpace;
 
     public TopSpaceItemDecoration(int topSpace) {
